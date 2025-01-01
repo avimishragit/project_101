@@ -1,0 +1,7 @@
+numpy
+pandas
+matplotlib
+seaborn
+setuptools
+typing
+#-e . # kept at the end and so that setup.py file gets triggered! 
